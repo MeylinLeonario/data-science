@@ -1,0 +1,16 @@
+id,nombre,edad,ciudad,ingreso_mensual,compras,cliente_premium,satisfaccion
+1,Ana,24,Santiago,850000,5,Si,4
+2,Carlos,31,Antofagasta,1200000,8,No,5
+3,Sofia,,Santiago,920000,3,Si,4
+4,Diego,28,,780000,6,No,3
+5,Valentina,35,Valparaiso,,10,Si,5
+6,Martin,42,Antofagasta,1450000,,No,4
+7,Camila,27,Santiago,890000,4,,5
+8,Tomas,30,Valparaiso,810000,5,No,
+9,Daniela,,Antofagasta,1100000,7,Si,4
+10,Felipe,29,Santiago,,2,No,3
+11,Josefa,33,,970000,6,Si,5
+12,Matias,26,Antofagasta,760000,,No,4
+13,Isidora,38,Santiago,1300000,9,Si,
+14,Benjamin,25,Valparaiso,720000,3,,3
+15,Florencia,32,Santiago,950000,6,Si,5
