@@ -1,0 +1,16 @@
+id,nombre,edad,ciudad,ingreso_mensual,compras,cliente_premium,satisfaccion
+1,Ana,24.0,Santiago,850000.0,5.0,Si,4.0
+2,Carlos,31.0,Antofagasta,1200000.0,8.0,No,5.0
+3,Sofia,24.0,Santiago,920000.0,3.0,Si,4.0
+4,Diego,28.0,Santiago,780000.0,6.0,No,3.0
+5,Valentina,35.0,Valparaiso,976923.0769230769,10.0,Si,5.0
+6,Martin,42.0,Antofagasta,1450000.0,5.6923076923076925,No,4.0
+7,Camila,27.0,Santiago,890000.0,4.0,No,5.0
+8,Tomas,30.0,Valparaiso,810000.0,5.0,No,4.0
+9,Daniela,24.0,Antofagasta,1100000.0,7.0,Si,4.0
+10,Felipe,29.0,Santiago,976923.0769230769,2.0,No,3.0
+11,Josefa,33.0,Santiago,970000.0,6.0,Si,5.0
+12,Matias,26.0,Antofagasta,760000.0,5.6923076923076925,No,4.0
+13,Isidora,38.0,Santiago,1300000.0,9.0,Si,4.0
+14,Benjamin,25.0,Valparaiso,720000.0,3.0,No,3.0
+15,Florencia,32.0,Santiago,950000.0,6.0,Si,5.0
